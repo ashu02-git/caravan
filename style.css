@@ -5,34 +5,14 @@
   box-sizing: border-box;
 }
 
-.header {
-  width: 100%; /*　横幅いっぱい　*/
-  height: 120px; /* 高さ120px */
-  background-color: red; /* 背景色red */
-}
-
-.header-top {
-  width: 100%; /*　横幅いっぱい　*/
-  height: 70px; /* 高さ700px */
-  background-color: hotpink; /* 背景色hotpink */
-}
-
-.header-bottom {
-  width: 100%; /*　横幅いっぱい　*/
-  height: 50px; /* 高さ50px */
-  background-color: pink; /* 背景色pink */
-}
-
 .main-visual {
   width: 100%; /*　横幅いっぱい　*/
   height: 300px; /* 高さ300px */
-  background-color: orange; /* 背景色orange */
 }
 
 .main-visual-content {
   width: 350px; /*　横幅350px　*/
   height: 300px; /* 高さ300px */
-  background-color: gold; /* 背景色orange */
 }
 
 .main {
@@ -45,17 +25,9 @@
 .blog {
   width: 600px; /* 横幅600x */
   height: 1400px; /* 高さ1400x */
-  background-color: limegreen;
 }
 
 .sidebar {
   width: 240px; /* 横幅240x */
   height: 1400px; /* 高さ1400x */
-  background-color: palegreen;
-}
-
-.footer {
-  width: 100%; /*　横幅いっぱい　*/
-  height: 120px; /* 高さ120px */
-  background-color: blue; /* 背景色blue */
 }
