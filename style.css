@@ -3,6 +3,12 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+/* リンクの装飾（下線）を消す */
+a {
+  text-decoration: none;
 }
 
 header {
@@ -20,7 +26,7 @@ header .heading {
 .nav-list {
   text-align: center;
   padding: 10px 0;
-  margin: 0 20px;
+  margin: 0 auto;
 }
 
 .nav-list-item {
@@ -59,4 +65,11 @@ header .heading {
 footer {
   width: 100%; /* 横幅いっぱい */
   height: 120px; /* 高さ　120px */
+  text-align: center;
+  line-height: 120px;
+  background-color: #848282;
+}
+
+.footer-text {
+  color: #fff;
 }
