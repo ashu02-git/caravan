@@ -60,21 +60,10 @@ header .heading {
   color: #fff;
 }
 
-.main {
-  width: 840px; /*　横幅840px　*/
-  display: flex; /* Flexの利用 */
-  justify-content: center; /* 小要素の横並び・中央寄せ */
-  margin: 0 auto; /* 中央寄せ(左右に余白ないとできない) */
-}
-
 .blog {
-  width: 600px; /* 横幅600x */
-  height: 1400px; /* 高さ1400x */
 }
 
 .sidebar {
-  width: 240px; /* 横幅240x */
-  height: 1400px; /* 高さ1400x */
 }
 
 footer {
