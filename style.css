@@ -76,9 +76,14 @@ main {
 .blog-heading {
   border-bottom: 8px solid #f7f7f7; /* 下に8pxの実線*/
   text-align: center; /* textを中央寄せ*/
-  line-height: 0.6;
+  line-height: 0.6; /* 行の高さ0.6倍*/
 }
 
+.blog-item {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #f7f7f7;
+}
 .sidebar {
   width: 230px;
 }
