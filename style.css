@@ -11,7 +11,9 @@ a {
   text-decoration: none;
 }
 
-
+header, nav, h2, .main-visual, footer {
+  font-family: Chalkduster, "Bradley Hand", Courier, "Segoe Print", sans-serif;
+}
 
 header {
   width: 90%; /* 横幅90％ */
